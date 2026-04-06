@@ -1,9 +1,0 @@
-<html>
-<head>
-<title>My AWS Project</title>
-</head>
-<body>
-</h1>Hello Jayachandra </h1>
-<p>This is my first Github project</p>
-</body>
-</html>
